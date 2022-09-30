@@ -86,8 +86,8 @@ En este reto reforzaras tus conocimientos en JavaScript, realizando una llamadas
     <!-- <a style="color:black;" href="https://danascript.github.io/the-ultimate-api-challenge-yes-no/" target="_blank" rel="noopener">Live Preview</a> -->
 </div>
 
-Práctica de Live Coding 3
-Mangos y naranjas
+# Práctica de Live Coding 3
+## Mangos y naranjas
 En este reto reforzaras tus conocimientos en Java, manejando ciclos, condicionales e recibir e imprir datos por consola.
 
 1.- Construye un programa que pida por consola 2 números. El número de mangos y el número de naranjas.
